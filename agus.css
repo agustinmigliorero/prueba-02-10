@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #f4f4f9; 
+    color: #333; 
+    margin: 20px; 
+    line-height: 1.6; 
+}
+
+.destacado {
+    background-color: #fff; 
+    border: 1px solid #ccc; 
+    padding: 15px; 
+    border-radius: 8px; 
+}
+
+#titulo-principal {
+    color: #007bff; 
+    text-align: center; 
+    margin-bottom: 30px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
